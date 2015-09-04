@@ -3,6 +3,7 @@
 #include "opencv2/core/core.hpp"
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
+
 /* 人脸特征点的个数 */
 #define FACE_FEATURE_POINT_NUM 68
 
